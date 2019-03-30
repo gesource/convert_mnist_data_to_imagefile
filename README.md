@@ -1,0 +1,2 @@
+# convert_mnist_data_to_imagefile
+mnistのデータをpng画像に変換して保存する
